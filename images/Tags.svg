@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2848.5 2832.5 1375.119 168">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00bd9c;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 18px;
+        font-family: Avenir-Book, Avenir;
+      }
+
+      .cls-3 {
+        fill: #8b989e;
+      }
+    </style>
+  </defs>
+  <g id="Group_2323" data-name="Group 2323" transform="translate(-3022)">
+    <path id="Path_602" data-name="Path 602" class="cls-1" d="M23.5.5H131.619a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(622 2832)"/>
+    <g id="Group_2134" data-name="Group 2134" transform="translate(301 2275)">
+      <path id="Path_536" data-name="Path 536" class="cls-1" d="M23.5.5h89.119a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(17 557)"/>
+      <text id="_3D" data-name="3D" class="cls-2" transform="translate(36 586)"><tspan x="0" y="0">3D</tspan></text>
+    </g>
+    <path id="Path_536-2" data-name="Path 536" class="cls-1" d="M23.5.5H146.156a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(173 2893)"/>
+    <path id="Path_603" data-name="Path 603" class="cls-1" d="M23.5.5h129a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(699 2893)"/>
+    <text id="Desarrollo_web" data-name="Desarrollo web" class="cls-2" transform="translate(192 2922)"><tspan x="0" y="0">Desarrollo web</tspan></text>
+    <text id="Diseño_industrial" data-name="Diseño industrial" class="cls-2" transform="translate(718 2922)"><tspan x="0" y="0">Diseño industrial</tspan></text>
+    <g id="Group_2133" data-name="Group 2133" transform="translate(301 2275)">
+      <path id="Path_538" data-name="Path 538" class="cls-1" d="M23.5.5h89.119a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(169 557)"/>
+      <text id="Animación" class="cls-2" transform="translate(188 586)"><tspan x="0" y="0">Animación</tspan></text>
+    </g>
+    <text id="Arquitectura" class="cls-2" transform="translate(641 2861)"><tspan x="0" y="0">Arquitectura</tspan></text>
+    <g id="Group_2135" data-name="Group 2135" transform="translate(301 2275)">
+      <path id="Path_537" data-name="Path 537" class="cls-1" d="M23.5.5H131.619a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(56 618)"/>
+      <text id="Diseño_digital" data-name="Diseño digital" class="cls-2" transform="translate(76 647)"><tspan x="0" y="0">Diseño digital</tspan></text>
+    </g>
+    <path id="Path_537-2" data-name="Path 537" class="cls-1" d="M23.5.5H131.619a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(528 2893)"/>
+    <text id="Diseño_gráfico" data-name="Diseño gráfico" class="cls-2" transform="translate(548 2922)"><tspan x="0" y="0">Diseño gráfico</tspan></text>
+    <g id="Group_2322" data-name="Group 2322" transform="translate(154)">
+      <path id="Path_537-3" data-name="Path 537" class="cls-3" d="M23.5.5H137.3a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(785 2832)"/>
+      <text id="Asesoramiento" class="cls-2" transform="translate(805 2861)"><tspan x="0" y="0">Asesoramiento</tspan></text>
+    </g>
+    <path id="Path_537-4" data-name="Path 537" class="cls-3" d="M23.5.5H137.3a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(1114 2832)"/>
+    <path id="Path_601" data-name="Path 601" class="cls-3" d="M23.5.5H137.3a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(1287 2832)"/>
+    <text id="Caligrafía" class="cls-2" transform="translate(1134 2861)"><tspan x="0" y="0">Caligrafía</tspan></text>
+    <text id="Comunicación" class="cls-2" transform="translate(1307 2861)"><tspan x="0" y="0">Comunicación</tspan></text>
+    <g id="Group_2310" data-name="Group 2310" transform="translate(831 2275)">
+      <path id="Path_537-5" data-name="Path 537" class="cls-3" d="M23.5.5H145.619a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(210 618)"/>
+      <text id="Gestión_cultural" data-name="Gestión cultural" class="cls-2" transform="translate(230 647)"><tspan x="0" y="0">Gestión cultural</tspan></text>
+    </g>
+    <g id="Group_2324" data-name="Group 2324" transform="translate(678 2275)">
+      <path id="Path_537-6" data-name="Path 537" class="cls-3" d="M23.5.5h90.119a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(210 618)"/>
+      <text id="Fotografía" class="cls-2" transform="translate(230 647)"><tspan x="0" y="0">Fotografía</tspan></text>
+    </g>
+    <g id="Group_2312" data-name="Group 2312" transform="translate(1016 2275)">
+      <path id="Path_537-7" data-name="Path 537" class="cls-3" d="M23.5.5h90.119a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(210 618)"/>
+      <text id="Ilustración" class="cls-2" transform="translate(230 647)"><tspan x="0" y="0">Ilustración</tspan></text>
+    </g>
+    <g id="Group_2311" data-name="Group 2311" transform="translate(1167 2275)">
+      <path id="Path_537-8" data-name="Path 537" class="cls-3" d="M23.5.5h90.119a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(210 618)"/>
+      <text id="Infografía" class="cls-2" transform="translate(230 647)"><tspan x="0" y="0">Infografía</tspan></text>
+    </g>
+    <g id="Group_2318" data-name="Group 2318" transform="translate(576 2214)">
+      <path id="Path_537-9" data-name="Path 537" class="cls-3" d="M23.5.5h90.119a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(210 618)"/>
+      <text id="Arte_digital" data-name="Arte digital" class="cls-2" transform="translate(230 647)"><tspan x="0" y="0">Arte digital</tspan></text>
+    </g>
+    <path id="Path_537-10" data-name="Path 537" class="cls-1" d="M23.5.5h90.119a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(317 2954)"/>
+    <text id="Lettering" class="cls-2" transform="translate(337 2983)"><tspan x="0" y="0">Lettering</tspan></text>
+    <g id="Group_2301" data-name="Group 2301" transform="translate(575 2336)">
+      <path id="Path_537-11" data-name="Path 537" class="cls-3" d="M23.5.5h90.119a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(210 618)"/>
+      <text id="Música" class="cls-2" transform="translate(230 647)"><tspan x="0" y="0">Música</tspan></text>
+    </g>
+    <path id="Path_537-12" data-name="Path 537" class="cls-1" d="M23.5.5h90.119a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(469 2954)"/>
+    <text id="Marcas" class="cls-2" transform="translate(489 2983)"><tspan x="0" y="0">Marcas</tspan></text>
+    <g id="Group_2302" data-name="Group 2302" transform="translate(727 2336)">
+      <path id="Path_537-13" data-name="Path 537" class="cls-3" d="M23.5.5h90.119a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(210 618)"/>
+      <text id="Publicidad" class="cls-2" transform="translate(230 647)"><tspan x="0" y="0">Publicidad</tspan></text>
+    </g>
+    <g id="Group_2305" data-name="Group 2305" transform="translate(1051 2336)">
+      <path id="Path_537-14" data-name="Path 537" class="cls-3" d="M23.5.5h90.119a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(210 618)"/>
+      <text id="Sonido" class="cls-2" transform="translate(230 647)"><tspan x="0" y="0">Sonido</tspan></text>
+    </g>
+    <path id="Path_537-15" data-name="Path 537" class="cls-1" d="M23.5.5H125.619a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(621 2954)"/>
+    <text id="Modelado_3D" data-name="Modelado 3D" class="cls-2" transform="translate(641 2983)"><tspan x="0" y="0">Modelado 3D</tspan></text>
+    <g id="Group_2303" data-name="Group 2303" transform="translate(879 2336)">
+      <path id="Path_537-16" data-name="Path 537" class="cls-3" d="M23.5.5H133.934a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(210 618)"/>
+      <text id="Redes_sociales" data-name="Redes sociales" class="cls-2" transform="translate(230 647)"><tspan x="0" y="0">Redes sociales</tspan></text>
+    </g>
+    <g id="Group_2306" data-name="Group 2306" transform="translate(1318 2336)">
+      <g id="Group_2325" data-name="Group 2325" transform="translate(-1)">
+        <path id="Path_537-17" data-name="Path 537" class="cls-3" d="M23.5.5h90.119a23,23,0,0,1,0,46H23.5a23,23,0,0,1,0-46Z" transform="translate(95 618)"/>
+        <text id="_" data-name="…" class="cls-2" transform="translate(115 647)"><tspan x="0" y="0">…</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

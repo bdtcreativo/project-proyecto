@@ -1,4 +1,5 @@
 # Banco de tiempo creativo
+Plataforma digital de trabajo colaborativo, donde profesionales vinculados al mundo creativo, intercambian conocimientos y habilidades a través de un sistema de banco de tiempo
 
 <br />
 

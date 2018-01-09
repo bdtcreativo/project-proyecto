@@ -22,11 +22,9 @@ Somos un grupo de profesionales motivados por la colaboración y el trabajo en r
 
 
 El **equipo de Gestión** se ocupa de impulsar el proyecto y dinamizar la comunidad de creativos que la integra.<br />
-El **equipo de desarrollo** trabaja en la creación de la plataforma digital y se nutre de los aportes de todos los colaboradores. 
+El **equipo de desarrollo** trabaja en la creación de la plataforma digital y se nutre de los aportes de todos los colaboradores. <br />
 La **comunidad** intercambia conocimientos y habilidades y se compromete también con las tareas de gestión, empoderándose del proyecto.
 
 Invitamos a todos a participar de su creación, ya sean profesionales independientes, organizaciones o empresas. Es un proyecto colaborativo y de licencia libre.  
 
-<br /> 
-<br />
-**Si te interesa participar o formar parte, escribenos a info@bancodetiempocreativo.org**
+**Si te interesa participar y formar parte, escribenos a info@bancodetiempocreativo.org**
